@@ -1,7 +1,7 @@
 import React from 'react';
 import { BsFillImageFill} from "react-icons/bs";
 // import {IoIosStats} from 'react-icons/io'
-import { FaCity} from "react-icons/fa";
+// import { FaCity} from "react-icons/fa";
 import {HiOutlineInbox} from "react-icons/hi";
 import {TiContacts} from "react-icons/ti";
 import {ImNewspaper} from "react-icons/im";
@@ -139,14 +139,14 @@ const routesConfig = [
       //   icon: <MdLock />,
       //   path: '/tgbot',
       // },
-      {
-        id: 'region',
-        title: 'Order',
-        messageId: 'sidebar.sample.region',
-        type: 'item',
-        icon: <FaCity />,
-        path: '/region',
-      },
+      // {
+      //   id: 'region',
+      //   title: 'Order',
+      //   messageId: 'sidebar.sample.region',
+      //   type: 'item',
+      //   icon: <FaCity />,
+      //   path: '/region',
+      // },
       // {
       //   id: 'testDrive',
       //   title: 'Test Drive',
